@@ -30,10 +30,10 @@ public class RewardService {
 	private final String T_APPROVAL_VAR = "_approval";
 	private final String LANG = "en-UK";
 	private final String DEPLOYMENT_ID = "example:rewards-project:1.0";
-	private final String USERNAME = "jesuino";
-	private final String PASSWORD = "redhat2014!";
-	private final String PROCESS_ID = "com.sample.rewards-basic";
-	private final String SERVER_URL = "http://localhost:8080/jbpm-console";
+	private final String USERNAME = "vipin";
+	private final String PASSWORD = "vipin@123!";
+	private final String PROCESS_ID = "example:rewards-project:1.0";
+	private final String SERVER_URL = "http://localhost:8080/business-central";
 	
 	// jBPM classes
 	private RuntimeEngine engine;
